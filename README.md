@@ -17,7 +17,9 @@ Things to pay attention to:
   - Documentation. Document how to run your program, document your code,  document known problems.  
   - Clear architecture. Do not write spaghetti code.  
   - Tests and test coverage.
-  _______________________________________________________________________________________
+  
+_______________________________________________________________________________________
+  
   Solution has been created with java 1.7 (should work lower version too)
   and it works on console (no GUI)
   Installation
